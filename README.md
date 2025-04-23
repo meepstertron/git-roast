@@ -65,9 +65,24 @@ git roast .
 
 Options coming soon:
 
- -[] `--savage` (maximum roast)
+ - [ ] `--savage` (maximum roast)
 
- -[] `--nice` (if your self-esteem is low)
+ - [ ] `--nice` (if your self-esteem is low)
 
- -[] `--roast-me` (targets only your commits)
+ - [ ] `--roast-me` (targets only your commits)
 
+
+## 🤝 Contributing
+
+Wanna add more roasts? More patterns? New languages?
+Open a PR or drop a spicy suggestion in Issues 💬
+
+## 🧠 Idea by
+
+Built by @meepstertron for Hack Club Shipwrecked 2025.
+Inspired by years of questionable late-night commits.
+
+
+## 📜 License
+
+[MIT](https://github.com/meepstertron/git-roast/blob/main/LICENSE) — roast responsibly.
