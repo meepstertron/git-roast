@@ -1,5 +1,9 @@
 # 🥩 git roast
 
+
+
+
+
 > Roast your code. Roast your coworkers. Roast **yourself.**  
 > Because `git blame` was too polite.
 
@@ -32,6 +36,7 @@ Basically, it’s `git blame` with *personality issues*.
 ## 🚀 Install
 
 ### With Python
+*Because roasting your coworkers shouldn't require compiling C.*
 ```bash
 pip install git-roast
 ```
